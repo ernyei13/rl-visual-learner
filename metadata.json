@@ -1,0 +1,5 @@
+{
+  "name": "RL Visualizer: From MDP to Q-Learning",
+  "description": "An interactive educational tool to visualize Reinforcement Learning algorithms including MDP, TD Learning, Q-Learning, and SARSA based on academic slides.",
+  "requestFramePermissions": []
+}
